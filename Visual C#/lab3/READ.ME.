@@ -1,0 +1,100 @@
+5. While loop with increments of 1 to 10.
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Lab31050
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            int i = 1;
+            while (i <= 10)
+            {
+                Console.WriteLine(i);
+                i += 1;
+
+            }
+            Console.ReadKey();
+6. While loop with increments of 20 to 60.
+   using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Lab31050
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            int i = 20;
+            while (i <= 60)
+            {
+                Console.WriteLine(i);
+                i += 1;
+
+            }
+            Console.ReadKey();
+
+
+
+
+
+        }
+    }
+}
+
+
+7. While loop with increments that start at 10 to 20.
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Lab31050
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            int i = 10;
+            while (i <= 20)
+            {
+                Console.WriteLine(i);
+                i += 1;
+
+            }
+            Console.ReadKey();
+
+
+
+
+
+        }
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
